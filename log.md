@@ -28,3 +28,20 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+#
+
+# Starting from here
+
+### Day 16: January 18, Thursday
+## Today's Progress :
+
+**Web-Development**: Today I made a made a Registration Form using HTML5 and CSS from the [freeCodeCamp's](https://www.freecodecamp.com) Responsive Web Design Course.
+
+**DSA**: Learnt about Merge Sort Algorithm and also Inline Merge Sort Algortihm from [Kunal Kushwaha's](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) Java + DSA playlist.
+
+**Thoughts**:
+
+**Link(s) to work**
+1. [Resgistration Form](https://ajitkumarroy.github.io/registration-form-webpage/) webpage.
