@@ -1,1 +1,1 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Challenge - Log
