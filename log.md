@@ -45,3 +45,20 @@
 
 **Link(s) to work**
 1. [Resgistration Form](https://ajitkumarroy.github.io/registration-form-webpage/) webpage.
+
+
+
+### Day 17: January 19, Friday
+## Today's Progress :
+
+**Web-Development**: Today I learnt about Box model, Flexbox, and Typography from 
+[freeCodeCamp's](https://www.freeCodeCamp.com) Responsive Web Design Certification Course. .
+
+**DSA**: ------
+
+**Thoughts**: Don't skip DSA for more than 3 Days in a row.
+
+**Link(s) to work**
+1. [Rothko Painting](https://ajitkumarroy.github.io/rothko-painting/) webpage.
+2. [Photo Gallery](https://ajitkumarroy.github.io/photo-gallery/) webpage.
+3. [Nutrition Label](https://ajitkumarroy.github.io/nutrition-label/) webpage.
