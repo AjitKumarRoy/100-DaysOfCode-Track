@@ -64,3 +64,22 @@
 1. [Rothko Painting](https://ajitkumarroy.github.io/rothko-painting/) webpage.
 2. [Photo Gallery](https://ajitkumarroy.github.io/photo-gallery/) webpage.
 3. [Nutrition Label](https://ajitkumarroy.github.io/nutrition-label/) webpage.
+
+
+
+### Day 18: January 30,Tuesday 
+## Today's Progress :
+
+**Web-Development**: Today I learnt about accessibility from
+[freeCodeCamp's](https://www.freeCodeCamp.com) Responsive Web Design Certification Course by building a Quizz app.
+
+**DSA**: ------
+
+**Thoughts**: Don't skip DSA for more than 3 Days in a row.
+
+**Link(s) to work**
+1. [Quizz app](https://ajitkumarroy.github.io/quiz-app/) webpage.
+
+
+
+
