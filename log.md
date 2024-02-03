@@ -83,3 +83,19 @@
 
 
 
+### Day 19: February 2,Friday 
+## Today's Progress :
+
+**Web-Development**: Today I made a tribute page of Dr. Norman Barloug. It is a part of 
+[freeCodeCamp's](https://www.freeCodeCamp.com) Responsive Web Design Certification Course.
+
+**DSA**: ------
+
+**Thoughts**: Don't skip DSA for more than 3 Days in a row.
+
+**Link(s) to work**
+1. [Tribute Page](https://ajitkumarroy.github.io/Dr-Norman-Barloug/) webpage.
+
+
+
+
