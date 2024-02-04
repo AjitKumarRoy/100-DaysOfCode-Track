@@ -99,3 +99,21 @@
 
 
 
+
+
+### Day 20: February 4,Sunday
+## Today's Progress :
+
+**Web-Development**: Today I learned about CSS Pseudo Selectors from 
+[freeCodeCamp's](https://www.freeCodeCamp.com) Responsive Web Design Certification Course.
+
+**DSA**: Solved some Binary Search Problems on LeetCode.
+
+**Thoughts**: It's is a good day!!
+
+**Link(s) to work**
+1. [Balance Sheet](https://ajitkumarroy.github.io/balance-sheet//) webpage.
+
+
+
+
